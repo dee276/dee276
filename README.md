@@ -72,7 +72,7 @@ Portable environmental analysis platform using ESP32, Raspberry Pi, and environm
 
 ## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/dudley-orestil/
+LinkedIn: www.linkedin.com/dudley-orestil
 
 GitHub: https://github.com/dee276
 
