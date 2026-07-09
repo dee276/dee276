@@ -1,4 +1,5 @@
-# Hi, I'm Dudley Orestil 👋
+# Hi, I'm <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dudley-orestil" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/dudley-orestil?trk=profile-badge">Dudley Orestil</a></div>
+               👋
 
 Software Developer | Data Analyst | Embedded Systems Enthusiast
 
@@ -77,6 +78,4 @@ LinkedIn: https://www.linkedin.com/in/dudley-orestil-65b114b3
 ETS email: dudley.orestil.1@ens.etsmtl.ca
 
 Always open to discussing software development, data projects, embedded systems, and interesting engineering challenges.
-
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dudley-orestil" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/dudley-orestil?trk=profile-badge">Dudley Orestil</a></div>
               
